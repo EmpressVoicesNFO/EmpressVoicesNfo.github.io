@@ -157,32 +157,32 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
-    "https://nfomation.net/info/1768590968.Dead.Space.Remake.CRACKFIX-voices38.nfo", // Dead Space Remake Crackfix
-    "https://nfomation.net/info/1768591679.Dead.Space.Remake.PROPER-voices38.nfo", // Dead Space Remake
-    "https://nfomation.net/info/1768593858.FIFA.22-voices38.nfo", // FIFA 22
-    "https://nfomation.net/info/1768594182.Sonic.Colors.Ultimate-voices38_.nfo", // Sonic Colors: Ultimate
-    "https://nfomation.net/info/1768594705.F1.2021.CRACKFIX-voices38.nfo", // F1 2021 Crackfix
-    "https://nfomation.net/info/1768594728.F1.2021-voices38.nfo", // F1 2021
-    "https://nfomation.net/info/1768594771.Scott.Pilgrim.vs.The.World-voices38.nfo", // Scott Pilgrim vs The World
-    "https://nfomation.net/info/1768594807.Hi-Fi.RUSH-voices38.nfo", // HI-FI RUSH
-    "https://nfomation.net/info/1768594832.Need.For.Speed.Hot.Pursuit.Remastered.CRACKFIX-voices38.nfo", // Need For Speed Hot Pursuit Remastered Crackfix
-    "https://nfomation.net/info/1768594864.FIFA.21-voices38.nfo", // FIFA 21
-    "https://nfomation.net/info/1768594883.Shin.Megami.Tensei.III.Nocturne.HD.Remaster-voices38.nfo", // Shin Megami Tensei III Nocturne HD Remaster
-    "https://nfomation.net/info/1768594917.Need.For.Speed.Hot.Pursuit.Remastered-voices38.nfo", // Need For Speed Hot Pursuit Remastered
-    "https://nfomation.net/info/1768594950.Star.Wars.Squadrons-voices38.nfo", // Star Wars Squadrons Edited
-    "https://nfomation.net/info/1768594984.Star.Wars.Squadrons-voices38-o.nfo", // Star Wars Squadrons Original
-    "https://nfomation.net/info/1768595008.FIFA.20-voices38.nfo", // FIFA 20 Edited
-    "https://nfomation.net/info/1768595032.FIFA.20-voices38-o.nfo", // FIFA 20 Original
-    "https://nfomation.net/info/1768595058.Need.for.Speed.Heat-voices38.nfo", // Need For Speed Heat Edited
-    "https://nfomation.net/info/1768595080.Need.for.Speed.Heat-voices38-o.nfo", // Need For Speed Heat Original
-    "https://nfomation.net/info/1768595099.E.Football.PES.2020-voices38.nfo", // e Football PES 2020 Edited
-    "https://nfomation.net/info/1768595127.E.Football.PES.2020-voices38-o.nfo", // e Football PES 2020 Original
-    "https://nfomation.net/info/1768595146.The.Outer.Worlds.2.PROPER-voices38.nfo", // The Outer Worlds 2 Edited
-    "https://nfomation.net/info/1768595177.The.Outer.Worlds.2.PROPER-voices38-o.nfo", // The Outer Worlds 2 Original
-    "https://nfomation.net/info/1768595202.Shining.Resonance.Refrain-voices38.nfo", // Shining Resonance Refrain Edited
-    "https://nfomation.net/info/1768595231.Shining.Resonance.Refrain-voices38-o.nfo", // Shining Resonance Refrain Original
-    "https://nfomation.net/info/1768595247.Starlink.Battle.For.Atlas-voices38.nfo", // Starlink Battle for Atlas
-    "https://nfomation.net/info/1768595276.Total.War.Three.Kingdoms-voices38.nfo" // Total War Three Kingdoms
+    'https://nfomation.net/info/1768590968.Dead.Space.Remake.CRACKFIX-voices38.nfo', // Dead Space Remake Crackfix
+    'https://nfomation.net/info/1768591679.Dead.Space.Remake.PROPER-voices38.nfo', // Dead Space Remake
+    'https://nfomation.net/info/1768593858.FIFA.22-voices38.nfo', // FIFA 22
+    'https://nfomation.net/info/1768594182.Sonic.Colors.Ultimate-voices38_.nfo', // Sonic Colors: Ultimate
+    'https://nfomation.net/info/1768594705.F1.2021.CRACKFIX-voices38.nfo', // F1 2021 Crackfix
+    'https://nfomation.net/info/1768594728.F1.2021-voices38.nfo', // F1 2021
+    'https://nfomation.net/info/1768594771.Scott.Pilgrim.vs.The.World-voices38.nfo', // Scott Pilgrim vs The World
+    'https://nfomation.net/info/1768594807.Hi-Fi.RUSH-voices38.nfo', // HI-FI RUSH
+    'https://nfomation.net/info/1768594832.Need.For.Speed.Hot.Pursuit.Remastered.CRACKFIX-voices38.nfo', // Need For Speed Hot Pursuit Remastered Crackfix
+    'https://nfomation.net/info/1768594864.FIFA.21-voices38.nfo', // FIFA 21
+    'https://nfomation.net/info/1768594883.Shin.Megami.Tensei.III.Nocturne.HD.Remaster-voices38.nfo', // Shin Megami Tensei III Nocturne HD Remaster
+    'https://nfomation.net/info/1768594917.Need.For.Speed.Hot.Pursuit.Remastered-voices38.nfo', // Need For Speed Hot Pursuit Remastered
+    'https://nfomation.net/info/1768594950.Star.Wars.Squadrons-voices38.nfo', // Star Wars Squadrons Edited
+    'https://nfomation.net/info/1768594984.Star.Wars.Squadrons-voices38-o.nfo', // Star Wars Squadrons Original
+    'https://nfomation.net/info/1768595008.FIFA.20-voices38.nfo', // FIFA 20 Edited
+    'https://nfomation.net/info/1768595032.FIFA.20-voices38-o.nfo', // FIFA 20 Original
+    'https://nfomation.net/info/1768595058.Need.for.Speed.Heat-voices38.nfo', // Need For Speed Heat Edited
+    'https://nfomation.net/info/1768595080.Need.for.Speed.Heat-voices38-o.nfo', // Need For Speed Heat Original
+    'https://nfomation.net/info/1768595099.E.Football.PES.2020-voices38.nfo', // e Football PES 2020 Edited
+    'https://nfomation.net/info/1768595127.E.Football.PES.2020-voices38-o.nfo', // e Football PES 2020 Original
+    'https://nfomation.net/info/1768595146.The.Outer.Worlds.2.PROPER-voices38.nfo', // The Outer Worlds 2 Edited
+    'https://nfomation.net/info/1768595177.The.Outer.Worlds.2.PROPER-voices38-o.nfo', // The Outer Worlds 2 Original
+    'https://nfomation.net/info/1768595202.Shining.Resonance.Refrain-voices38.nfo', // Shining Resonance Refrain Edited
+    'https://nfomation.net/info/1768595231.Shining.Resonance.Refrain-voices38-o.nfo', // Shining Resonance Refrain Original
+    'https://nfomation.net/info/1768595247.Starlink.Battle.For.Atlas-voices38.nfo', // Starlink Battle for Atlas
+    'https://nfomation.net/info/1768595276.Total.War.Three.Kingdoms-voices38.nfo' // Total War Three Kingdoms
 ];
 
 for (i = 0; i <= voicesTitle.length - 1; i++) {
