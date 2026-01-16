@@ -10,7 +10,7 @@ The developer(s) also do not endorse Piracy in any form.
 
 # # How to use:
 
-Head over to https://model-map.github.io/EmpressNfo/ to begin
+Head over to https://empressvoicesnfo.github.io/ to begin
 
 # # Light mode/Dark mode
 Click logo to enable light/dark mode.
@@ -28,4 +28,9 @@ Click logo to enable light/dark mode.
 
     - https://nfomation.net for hosting the NFO
     - Empress for the spicy NFOs
+    - Voices38 for new Denuvo cracks and their NFOs
+    - model-map for original repo
+    - Glitxh for adding voices38 NFOs
 
+
+please support the original too: https://model-map.github.io/EmpressNfo/
