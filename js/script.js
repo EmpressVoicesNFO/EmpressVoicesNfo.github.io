@@ -202,6 +202,7 @@ for (i = 0; i <= voicesTitle.length - 1; i++) {
 const bonus = document.querySelector('.bonus');
 
 const bonusTitle = [
+    "Thanks from Glitxh for using new site",
     "All Uncracked Denuvo Games - The voices38 Quest",
     "Skidrow responds to EMPRESS's Judgement NFO",
     'WIRED.com - The Woman Bulldozing Video Games’ Toughest DRM',
@@ -214,6 +215,7 @@ const bonusTitle = [
 ];
 
 const bonusLink = [
+    'https://nfomation.net/info/1768596457.glitxh.nfo',
     'https://www.reddit.com/r/CrackSupport/comments/1p8uyzg/comment/nr7s36o/',
     'https://nfomation.net/info/1692258269.skidrow.nfo',
     'https://www.wired.com/story/empress-drm-cracking-denuvo-video-game-piracy/',
