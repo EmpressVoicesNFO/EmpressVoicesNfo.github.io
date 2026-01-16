@@ -128,12 +128,61 @@ const voices = document.querySelector('.voices');
 
 const voicesTitle = [
     "Dead.Space.Remake.CRACKFIX-voices38",
-    "Dead.Space.Remake.PROPER-voices38"
+    "Dead.Space.Remake.PROPER-voices38",
+    "FIFA.22-voices38",
+    "Sonic.Colors.Ultimate-voices38",
+    "F1.2021.CRACKFIX-voices38",
+    "F1.2021-voices38",
+    "Scott.Pilgrim.vs.The.World-voices38",
+    "Hi-Fi.RUSH-voices38",
+    "Need.For.Speed.Hot.Pursuit.Remastered.CRACKFIX-voices38",
+    "FIFA.21-voices38",
+    "Shin.Megami.Tensei.III.Nocturne.HD.Remaster-voices38",
+    "Need.For.Speed.Hot.Pursuit.Remastered-voices38",
+    "Star.Wars.Squadrons-voices38",
+    "Star.Wars.Squadrons-voices38 Original",
+    "FIFA.20-voices38",
+    "FIFA.20-voices38 Original",
+    "Need.for.Speed.Heat-voices38",
+    "Need.for.Speed.Heat-voices38 Original",
+    "E.Football.PES.2020-voices38",
+    "E.Football.PES.2020-voices38 Original",
+    "The.Outer.Worlds.2.PROPER-voices38",
+    "The.Outer.Worlds.2.PROPER-voices38 Original",
+    "Shining.Resonance.Refrain-voices38",
+    "Shining.Resonance.Refrain-voices38 Original",
+    "Starlink.Battle.For.Atlas-voices38",
+    "Total.War.Three.Kingdoms-voices38",
+
 ];
 
 const voicesLink = [
     "https://nfomation.net/info/1768590968.Dead.Space.Remake.CRACKFIX-voices38.nfo", // Dead Space Remake Crackfix
-    "https://nfomation.net/info/1768591679.Dead.Space.Remake.PROPER-voices38.nfo" // Dead Space Remake
+    "https://nfomation.net/info/1768591679.Dead.Space.Remake.PROPER-voices38.nfo", // Dead Space Remake
+    "https://nfomation.net/info/1768593858.FIFA.22-voices38.nfo", // FIFA 22
+    "https://nfomation.net/info/1768594182.Sonic.Colors.Ultimate-voices38_.nfo", // Sonic Colors: Ultimate
+    "https://nfomation.net/info/1768594705.F1.2021.CRACKFIX-voices38.nfo", // F1 2021 Crackfix
+    "https://nfomation.net/info/1768594728.F1.2021-voices38.nfo", // F1 2021
+    "https://nfomation.net/info/1768594771.Scott.Pilgrim.vs.The.World-voices38.nfo", // Scott Pilgrim vs The World
+    "https://nfomation.net/info/1768594807.Hi-Fi.RUSH-voices38.nfo", // HI-FI RUSH
+    "https://nfomation.net/info/1768594832.Need.For.Speed.Hot.Pursuit.Remastered.CRACKFIX-voices38.nfo", // Need For Speed Hot Pursuit Remastered Crackfix
+    "https://nfomation.net/info/1768594864.FIFA.21-voices38.nfo", // FIFA 21
+    "https://nfomation.net/info/1768594883.Shin.Megami.Tensei.III.Nocturne.HD.Remaster-voices38.nfo", // Shin Megami Tensei III Nocturne HD Remaster
+    "https://nfomation.net/info/1768594917.Need.For.Speed.Hot.Pursuit.Remastered-voices38.nfo", // Need For Speed Hot Pursuit Remastered
+    "https://nfomation.net/info/1768594950.Star.Wars.Squadrons-voices38.nfo", // Star Wars Squadrons Edited
+    "https://nfomation.net/info/1768594984.Star.Wars.Squadrons-voices38-o.nfo", // Star Wars Squadrons Original
+    "https://nfomation.net/info/1768595008.FIFA.20-voices38.nfo", // FIFA 20 Edited
+    "https://nfomation.net/info/1768595032.FIFA.20-voices38-o.nfo", // FIFA 20 Original
+    "https://nfomation.net/info/1768595058.Need.for.Speed.Heat-voices38.nfo", // Need For Speed Heat Edited
+    "https://nfomation.net/info/1768595080.Need.for.Speed.Heat-voices38-o.nfo", // Need For Speed Heat Original
+    "https://nfomation.net/info/1768595099.E.Football.PES.2020-voices38.nfo", // e Football PES 2020 Edited
+    "https://nfomation.net/info/1768595127.E.Football.PES.2020-voices38-o.nfo", // e Football PES 2020 Original
+    "https://nfomation.net/info/1768595146.The.Outer.Worlds.2.PROPER-voices38.nfo", // The Outer Worlds 2 Edited
+    "https://nfomation.net/info/1768595177.The.Outer.Worlds.2.PROPER-voices38-o.nfo", // The Outer Worlds 2 Original
+    "https://nfomation.net/info/1768595202.Shining.Resonance.Refrain-voices38.nfo", // Shining Resonance Refrain Edited
+    "https://nfomation.net/info/1768595231.Shining.Resonance.Refrain-voices38-o.nfo", // Shining Resonance Refrain Original
+    "https://nfomation.net/info/1768595247.Starlink.Battle.For.Atlas-voices38.nfo", // Starlink Battle for Atlas
+    "https://nfomation.net/info/1768595276.Total.War.Three.Kingdoms-voices38.nfo" // Total War Three Kingdoms
 ];
 
 for (i = 0; i <= voicesTitle.length - 1; i++) {
@@ -153,6 +202,7 @@ for (i = 0; i <= voicesTitle.length - 1; i++) {
 const bonus = document.querySelector('.bonus');
 
 const bonusTitle = [
+    "All Uncracked Denuvo Games - The voices38 Quest",
     "Skidrow responds to EMPRESS's Judgement NFO",
     'WIRED.com - The Woman Bulldozing Video Games’ Toughest DRM',
     'FUCK-REDDIT-02-22',
@@ -164,6 +214,7 @@ const bonusTitle = [
 ];
 
 const bonusLink = [
+    'https://www.reddit.com/r/CrackSupport/comments/1p8uyzg/comment/nr7s36o/',
     'https://nfomation.net/info/1692258269.skidrow.nfo',
     'https://www.wired.com/story/empress-drm-cracking-denuvo-video-game-piracy/',
     'https://web.archive.org/web/20230222032852/https://telegra.ph/FUCK-REDDIT-02-22',
