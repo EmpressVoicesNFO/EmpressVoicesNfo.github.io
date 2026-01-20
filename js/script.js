@@ -127,6 +127,7 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
+    "Anno.1800.End.of.an.Era-voices38",
     "Dead.Space.Remake.CRACKFIX-voices38",
     "Dead.Space.Remake.PROPER-voices38",
     "FIFA.22-voices38",
@@ -157,6 +158,7 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
+    'https://nfomation.net/info/1768876916.Anno.1800.End.of.an.Era-voices38.nfo', // ANNO 1800 
     'https://nfomation.net/info/1768590968.Dead.Space.Remake.CRACKFIX-voices38.nfo', // Dead Space Remake Crackfix
     'https://nfomation.net/info/1768591679.Dead.Space.Remake.PROPER-voices38.nfo', // Dead Space Remake
     'https://nfomation.net/info/1768593858.FIFA.22-voices38.nfo', // FIFA 22
