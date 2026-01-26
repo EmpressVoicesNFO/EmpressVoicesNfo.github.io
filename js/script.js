@@ -127,6 +127,7 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
+    "Anno.1800.End.of.an.Era.CRACKFIX-voices38",
     "Anno.1800.End.of.an.Era-voices38",
     "Dead.Space.Remake.CRACKFIX-voices38",
     "Dead.Space.Remake.PROPER-voices38",
@@ -158,6 +159,7 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
+    'https://nfomation.net/info/1769415938.Anno.1800.End.of.an.Era.CRACKFIX-voices38.nfo', // ANNO 1800 Crackfix
     'https://nfomation.net/info/1768876916.Anno.1800.End.of.an.Era-voices38.nfo', // ANNO 1800
     'https://nfomation.net/info/1768590968.Dead.Space.Remake.CRACKFIX-voices38.nfo', // Dead Space Remake Crackfix
     'https://nfomation.net/info/1768591679.Dead.Space.Remake.PROPER-voices38.nfo', // Dead Space Remake
