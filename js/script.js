@@ -204,6 +204,30 @@ for (i = 0; i <= voicesTitle.length - 1; i++) {
     voices.appendChild(link);
 }
 
+// NEW HYPERVISOR SECTION
+
+const Hypervisor = document.querySelector('.hypervisor');
+
+const HypervisorTitle = [
+    "Test"
+
+
+];
+
+const HypervisorLink = [
+    'https://nfomation.net/info/1772413853.StellarBlade.HYPERVISOR-REFLEX.BETA2.2.nfo'
+];
+
+for (i = 0; i <= voicesTitle.length - 1; i++) {
+    const link = document.createElement('a');
+    link.setAttribute('href', voicesLink[i]);
+    link.setAttribute('target', '_blank');
+    link.setAttribute('style', 'text-decoration: none');
+    if (voicesTitle.length - i <= 9)
+        link.textContent = `0${voicesTitle.length - i} ${voicesTitle[i]}`;
+    else link.textContent = `${voicesTitle.length - i} ${voicesTitle[i]}`;
+    voices.appendChild(link);
+}
 
 // BONUS SECTION
 
