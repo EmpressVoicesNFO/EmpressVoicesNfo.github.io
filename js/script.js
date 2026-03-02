@@ -127,6 +127,7 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
+    "Assassins.Creed.Mirage.Valley.of.Memory-voices38"
     "Sonic.Frontiers-voices38",
     "Anno.1800.End.of.an.Era.CRACKFIX-voices38",
     "Anno.1800.End.of.an.Era-voices38",
@@ -160,6 +161,7 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
+    'https://nfomation.net/info/1772413366.Assassins.Creed.Mirage.Valley.of.Memory-voices38.nfo', // Assassin's Creed Mirage Valley of Memory
     'https://nfomation.net/info/1769723349.Sonic.Frontiers-voices38.nfo', // Sonic Frontiers
     'https://nfomation.net/info/1769415938.Anno.1800.End.of.an.Era.CRACKFIX-voices38.nfo', // ANNO 1800 Crackfix
     'https://nfomation.net/info/1768876916.Anno.1800.End.of.an.Era-voices38.nfo', // ANNO 1800
