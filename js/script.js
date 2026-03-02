@@ -209,7 +209,7 @@ for (i = 0; i <= voicesTitle.length - 1; i++) {
 const Hypervisor = document.querySelector('.hypervisor');
 
 const HypervisorTitle = [
-    "Test"
+    "StellarBlade.HYPERVISOR-REFLEX.BETA2.2"
 
 
 ];
