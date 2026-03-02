@@ -89,6 +89,19 @@ footer {
     margin-bottom: auto;
 }
 
+.hypervisor {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    overflow-y: auto;
+    height: 50vh;
+
+    border: 1px solid #ffffff70;
+    padding: 20px;
+
+    margin-bottom: auto;
+}
+
 .bonus {
     height: 25vh;
     border: 1px solid #ffffff70;
@@ -130,6 +143,7 @@ a:active {
     }
     .container,
     .voices,
+    .hypervisor,
     .bonus {
         width: 90vw;
         font-size: 15px;
