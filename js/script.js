@@ -127,7 +127,7 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
-    "Assassins.Creed.Mirage.Valley.of.Memory-voices38"
+    "Assassins.Creed.Mirage.Valley.of.Memory-voices38",
     "Sonic.Frontiers-voices38",
     "Anno.1800.End.of.an.Era.CRACKFIX-voices38",
     "Anno.1800.End.of.an.Era-voices38",
