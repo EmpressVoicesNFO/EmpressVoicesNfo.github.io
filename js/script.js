@@ -218,15 +218,15 @@ const HypervisorLink = [
     'https://nfomation.net/info/1772413853.StellarBlade.HYPERVISOR-REFLEX.BETA2.2.nfo'
 ];
 
-for (i = 0; i <= voicesTitle.length - 1; i++) {
+for (i = 0; i <= HypervisorTitle.length - 1; i++) {
     const link = document.createElement('a');
-    link.setAttribute('href', voicesLink[i]);
+    link.setAttribute('href', HypervisorLink[i]);
     link.setAttribute('target', '_blank');
     link.setAttribute('style', 'text-decoration: none');
-    if (voicesTitle.length - i <= 9)
-        link.textContent = `0${voicesTitle.length - i} ${voicesTitle[i]}`;
-    else link.textContent = `${voicesTitle.length - i} ${voicesTitle[i]}`;
-    voices.appendChild(link);
+    if (HypervisorTitle.length - i <= 9)
+        link.textContent = `0${HypervisorTitle.length - i} ${HypervisorTitle[i]}`;
+    else link.textContent = `${HypervisorTitle.length - i} ${HypervisorTitle[i]}`;
+    Hypervisor.appendChild(link);
 }
 
 // BONUS SECTION
