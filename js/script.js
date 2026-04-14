@@ -127,7 +127,9 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
+    "Resident.Evil.Requiem-voices38",
     "DOOM.The.Dark.Ages-voices38",
+    "Assassins.Creed.Mirage.Valley.of.Memory.CRACKFIX-voices38",
     "Assassins.Creed.Mirage.Valley.of.Memory-voices38",
     "Sonic.Frontiers-voices38",
     "Anno.1800.End.of.an.Era.CRACKFIX-voices38",
@@ -162,7 +164,9 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
-    'https://nfomation.net/info/1773465100.DOOM.The.Dark.Ages-voices38.nfo' // DOOM The Dark Ages
+    'https://nfomation.net/info/1775922767.Resident.Evil.Requiem-voices38.nfo', // Resident Evil Requiem
+    'https://nfomation.net/info/1773465100.DOOM.The.Dark.Ages-voices38.nfo', // DOOM The Dark Ages
+    'https://nfomation.net/info/1775923137.Assassins.Creed.Mirage.Valley.of.Memory.CRACKFIX-voices38.nfo', // Assassin's Creed Mirage Valley of Memory Crackfix
     'https://nfomation.net/info/1772413366.Assassins.Creed.Mirage.Valley.of.Memory-voices38.nfo', // Assassin's Creed Mirage Valley of Memory
     'https://nfomation.net/info/1769723349.Sonic.Frontiers-voices38.nfo', // Sonic Frontiers
     'https://nfomation.net/info/1769415938.Anno.1800.End.of.an.Era.CRACKFIX-voices38.nfo', // ANNO 1800 Crackfix
