@@ -127,6 +127,7 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
+    "Black.Myth.Wukong.CRACKFIX-voices38",
     "Black.Myth.Wukong-voices38",
     "Resident.Evil.Requiem-voices38",
     "DOOM.The.Dark.Ages-voices38",
@@ -165,6 +166,7 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
+    'https://nfomation.net/info/1777607206.Black.Myth.Wukong.CRACKFIX-voices38.nfo', // Black Myth Wukong Crackfix
     'https://nfomation.net/info/1777334100.Black.Myth.Wukong-voices38.nfo', // Black Myth Wukong
     'https://nfomation.net/info/1775922767.Resident.Evil.Requiem-voices38.nfo', // Resident Evil Requiem
     'https://nfomation.net/info/1773465100.DOOM.The.Dark.Ages-voices38.nfo', // DOOM The Dark Ages
