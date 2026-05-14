@@ -127,6 +127,8 @@ for (i = 0; i <= games.length - 1; i++) {
 const voices = document.querySelector('.voices');
 
 const voicesTitle = [
+    "PRAGMATA-voices38",
+    "Stellar.Blade-voices38",
     "Black.Myth.Wukong.CRACKFIX-voices38",
     "Black.Myth.Wukong-voices38",
     "Resident.Evil.Requiem-voices38",
@@ -166,6 +168,8 @@ const voicesTitle = [
 ];
 
 const voicesLink = [
+    'https://nfomation.net/info/1778800723.PRAGMATA-voices38.nfo', // PRAGMATA
+    'https://nfomation.net/info/1778800688.Stellar.Blade-voices38.nfo', // Stellar Blade
     'https://nfomation.net/info/1777607206.Black.Myth.Wukong.CRACKFIX-voices38.nfo', // Black Myth Wukong Crackfix
     'https://nfomation.net/info/1777334100.Black.Myth.Wukong-voices38.nfo', // Black Myth Wukong
     'https://nfomation.net/info/1775922767.Resident.Evil.Requiem-voices38.nfo', // Resident Evil Requiem
